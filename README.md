@@ -1,2 +1,2 @@
-# veuJS_todoApp
+# vueJS_todoApp
 Todo list app with Vue JS
